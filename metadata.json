@@ -1,0 +1,6 @@
+{
+  "name": "Stock Opname Keramik Lantai",
+  "description": "Sistem stock opname digital gudang barang jadi keramik per Locator dengan cascading dropdown master SKU dan integrasi Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
